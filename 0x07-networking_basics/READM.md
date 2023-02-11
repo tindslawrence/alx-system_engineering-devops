@@ -1,5 +1,5 @@
 # 0x07. Networking basics #0
-# Resources
+## Resources
 - [OSI model](https://en.wikipedia.org/wiki/OSI_model)
 - [Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
 - [LAN network](https://en.wikipedia.org/wiki/Local_area_network)
